@@ -1,6 +1,6 @@
 // http://github.com/jeffwalter/defer
 //
-// Copyright <c) 2016 Jeff Walter <jeff@404ster.com>
+// Copyright (c) 2016 Jeff Walter <jeff@404ster.com>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to
