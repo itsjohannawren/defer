@@ -123,7 +123,7 @@ int main (const int argc, const char **argv) {
 		}
 	}
 
-	printf ("Pre-defer tests:\n")
+	printf ("Pre-defer tests:\n");
 	printMemory ();
 
 	for (loop = 0; loop < loops; loop++) {
