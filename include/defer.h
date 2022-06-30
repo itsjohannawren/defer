@@ -1,6 +1,6 @@
-// http://github.com/jeffwalter/defer
+// http://github.com/itsjohannawren/defer
 //
-// Copyright (C) 2016-2018 Jeff Walter <jeff@404ster.com>
+// Copyright (C) 2016-2018 Johanna Walter <johanna@walter.fm>
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to
